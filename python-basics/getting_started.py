@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("My name is Alex")
+print("I am learning Python")
+print(10)
+print(5 + 3)
